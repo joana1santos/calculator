@@ -31,5 +31,3 @@ btnSubmit.addEventListener('click', (e) => {
     decimalWithSignal.value = convertDecimalToOctal(number);
     hexadecimal.value = convertDecimalToHexadecimal(number);
 });
-
-

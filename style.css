@@ -6,3 +6,17 @@
 .bg-primary {
     background-color: #07892c !important;
 }
+footer {
+    position: fixed;
+    background: #067327;
+    padding: 10px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.footer-text {
+    font-size: 16px;
+    text-align: center;
+    color: #fff5f5;
+}
