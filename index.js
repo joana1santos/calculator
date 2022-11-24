@@ -17,10 +17,6 @@ const convertDecimalToOctal = (number) => {
     return parseInt(number, 8).toString(10);
 }
 
-const convert = (number) => {
-
-}
-
 decimalNumber.addEventListener('change', (e) => {
     const number = e.target.value;
     binaryNumber.value = convertDecimalToBinary(number);
